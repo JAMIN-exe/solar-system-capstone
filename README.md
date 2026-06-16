@@ -3,7 +3,7 @@
 A React web application that explores our solar system through data. Built as a capstone project for the TS Academy Frontend Development course.
 
 ## Live Demo
-[Deployment Link — update this once deployed](https://solar-system-capstone.netlify.app/)
+https://solar-system-capstone.netlify.app/
 
 ## Project Summary
 This application recreates a provided mockup as a fully working React web app. It fetches real planet data from an external API and displays it in a responsive grid. It also includes a comparative NASA data table, a validated contact form, and a responsive design for both desktop and mobile.
