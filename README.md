@@ -27,7 +27,7 @@ This application recreates a provided mockup as a fully working React web app. I
 ## How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/JAMIN-exe/your-repo-name.git
+git clone https://github.com/JAMIN-exe/solar-system-capstone.git
 ```
 2. Navigate into the project folder:
 ```bash
